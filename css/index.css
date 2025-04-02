@@ -3,3 +3,9 @@ body {
     height: 500px;
     object-fit: cover;
 }
+
+
+.mb-2 {
+    height: 50px;
+    width: 100px;
+}
